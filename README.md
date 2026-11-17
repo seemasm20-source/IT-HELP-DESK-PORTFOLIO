@@ -23,7 +23,7 @@ After 7 years in Human Resources, I discovered that great support — whether fo
 
 🏅 Certifications
 
-CompTIA A+
+
 Google IT Support Professional Certificate
 
 
