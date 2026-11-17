@@ -18,7 +18,7 @@ Skills:
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Hi, I'm Seema Soapanahalli Mallikarjunaiah
-IT Help Desk Support | Career Changer from HR | CompTIA A+ Certified
+IT Help Desk Support | Career Changer from HR | Google IT Support Professional Certificate
 After 7 years in Human Resources, I discovered that great support — whether for employees or end users — comes down to listening well, diagnosing the real problem, and resolving it with clarity and calm. That realisation led me to transition into IT, where I combine deep people skills with hands-on technical training.
 
 🏅 Certifications
@@ -39,4 +39,4 @@ Google IT Support Professional Certificate
 💼 What I Bring
 Communication Empathy Attention to Detail Problem Solving Stakeholder Management
 
-📫 Open to Help Desk & 1st Line IT Support opportunities
+📫 Open to Help Desk &tier 1 and tier 2 
