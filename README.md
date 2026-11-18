@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Seema Soapanahalli Mallikarjunaiah
+# 👋 Hi, I am Seema Soapanahalli Mallikarjunaiah
 
 ### IT Help Desk Support | Career Changer from HR | Google IT Support Professional Certificate
 
