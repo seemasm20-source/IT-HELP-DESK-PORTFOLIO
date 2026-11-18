@@ -101,17 +101,22 @@ Every lab follows the same flow: **summary, steps, verification, and screenshots
 
 ---
 
-## 🔭 What I'm Working On
+## 🔭 Continuous Learning & Development
 
-- Expanding the Microsoft 365 and Windows Server labs
-- Adding more VPN troubleshooting scenarios
-- Planned: Escalation Process, knowledge base articles, and more sample tickets
+- Strengthening practical troubleshooting skills across Windows Server, Active Directory and Microsoft 365
+- Exploring common IT Support scenarios involving user accounts, access permissions, connectivity and application issues
+- Developing knowledge of ITIL-based incident management, ticket prioritisation and SLA handling
+- Practising escalation procedures and writing clear technical documentation and knowledge base articles
+- Expanding hands-on experience through real-world IT Help Desk scenarios
 
 ---
 
+
 ## 🤝 Let's Connect
 
-I'm looking for an **IT Help Desk Support role, Tier 1 or Tier 2**. If you are hiring, or you have advice for someone who is changing careers into IT, I'd love to hear from you.
+I'm actively seeking **IT Help Desk / IT Support opportunities (Tier 1 or Tier 2)** in Germany.
+
+If you're hiring, know of relevant opportunities, or have advice for someone transitioning into IT, I'd be happy to connect and hear from you!
 
 - 💬 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/seema-soapanahalli-mallikarjunaiah-7136a857/)
 - 📂 **GitHub portfolios:** see the table above
