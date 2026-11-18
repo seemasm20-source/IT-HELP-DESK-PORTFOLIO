@@ -38,11 +38,11 @@ Every lab follows the same flow: **summary, steps, verification, and screenshots
 
 | Portfolio | What it shows | Link |
 |-----------|---------------|------|
-| 🌐 **Networking Labs** | DNS troubleshooting, DHCP configuration on a Cisco router, and TCP/IP troubleshooting | [networking-labs](https://github.com/seemasm20-source/networking-labs) |
-| 🪟 **Windows Server on Azure** | A Domain Controller on Azure, Active Directory, file server, Group Policy, Event Viewer and remote support tools | [Windows-Server-Azure-AD](https://github.com/seemasm20-source/Windows-Server-Azure-AD) |
-| 🔐 **VPN Home Lab** | VPN fundamentals, protocols, authentication, and a hands-on SSTP VPN lab with troubleshooting scenarios | [vpn-home-lab](https://github.com/seemasm20-source/vpn-home-lab) |
-| ☁️ **Microsoft 365 Troubleshooting** | The Admin Center, Outlook and Exchange Online, and Microsoft Teams | [Microsoft-Office-365](https://github.com/seemasm20-source/Microsoft-Office-365) |
-| 🎫 **SLA Management and Ticketing** | Ticket categories, priorities, statuses, SLA targets and sample tickets | [Add your repository link here](https://github.com/seemasm20-source) |
+| 🌐 **Networking Labs** | DNS troubleshooting, DHCP configuration on a Cisco router, and TCP/IP troubleshooting | [Networking Labs](https://github.com/seemasm20-source/networking-labs) |
+| 🪟 **Windows Server on Azure** | A Domain Controller on Azure, Active Directory, file server, Group Policy, Event Viewer and remote support tools | [Windows Server & Active Directory](https://github.com/seemasm20-source/Windows-Server-Azure-AD) |
+| 🔐 **VPN Home Lab** | VPN fundamentals, protocols, authentication, and a hands-on SSTP VPN lab with troubleshooting scenarios | [VPN Home Lab](https://github.com/seemasm20-source/vpn-home-lab) |
+| ☁️ **Microsoft 365 Troubleshooting** | The Admin Center, Outlook and Exchange Online, and Microsoft Teams | [Microsoft Office 365](https://github.com/seemasm20-source/Microsoft-Office-365) |
+| 🎫 **SLA Management and Ticketing** | Ticket categories, priorities, statuses, SLA targets and sample tickets | [IT Ticketing System & SLA Management](https://github.com/seemasm20-source/IT-Ticketing-System-AND-SLA-Management) |
 
 ### What Is Inside
 
@@ -113,7 +113,7 @@ Every lab follows the same flow: **summary, steps, verification, and screenshots
 
 I'm looking for an **IT Help Desk Support role, Tier 1 or Tier 2**. If you are hiring, or you have advice for someone who is changing careers into IT, I'd love to hear from you.
 
-- 💬 **LinkedIn:** [Add your LinkedIn link here]
+- 💬 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/seema-soapanahalli-mallikarjunaiah-7136a857/)
 - 📂 **GitHub portfolios:** see the table above
 
 ---
